@@ -1,0 +1,6 @@
+kkw|1234|김기원|admin|True
+ksb|1234|김수빈|user|True
+pop|5678|치와와|manager|True
+wow|0000|김와우|user|False
+aaa|1234|김에이|user|True
+bbb|1234|김비비|user|True
